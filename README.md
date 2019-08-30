@@ -12,5 +12,6 @@ model functions are linear combinations of the parameters, see [2] for details.
 For more information on the UKF and EM see
 
 [1] "The unscented Kalman filter for nonlinear estimation", https://ieeexplore.ieee.org/document/882463
+
 [2] "Sigma-Point Filtering and Smoothing Based Parameter Estimation in Nonlinear Dynamic Systems", https://arxiv.org/abs/1504.06173
 
