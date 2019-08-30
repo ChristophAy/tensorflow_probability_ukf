@@ -1,0 +1,5 @@
+tensorflow
+pandas==0.23.4
+numpy==1.16.1
+scipy==1.2.0
+tensorflow-probability==0.5.0
